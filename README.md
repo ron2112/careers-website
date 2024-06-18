@@ -1,2 +1,2 @@
 # careers-website
-A career wensite clone 
+A career website clone 
